@@ -24,3 +24,7 @@ This project is a full-stack chat application developed using Flask. It demonstr
     Flask-CORS
 This project highlights backend development skills including authentication systems, API security, and database management.
 <img width="1920" height="896" alt="image" src="https://github.com/user-attachments/assets/ffe9ff38-2cc0-45f9-a330-a632f37f35d9" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ec65b69e-e105-4def-a54c-8ee73353b752" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/99e4c987-1361-4863-b673-b216ec0fcdc9" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/66e7f06c-d0c7-4d6d-8b7c-c24d40af454d" />
+
